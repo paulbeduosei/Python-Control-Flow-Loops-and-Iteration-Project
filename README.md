@@ -1,4 +1,4 @@
-# Python-Control-Flow-Loops-and-Iteration-Project-In-Python
+# Python-Control-Flow-Loops-and-Iteration-Project
 
 In this project, I practiced fundamental Python programming concepts focused on control flow, loops, and conditional logic — all essential skills for cybersecurity automation, data analysis, and network scripting. 
 
